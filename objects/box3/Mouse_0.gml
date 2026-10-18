@@ -1,0 +1,1 @@
+global.emeny_select=3

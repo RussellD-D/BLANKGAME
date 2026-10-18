@@ -1,0 +1,21 @@
+//todo
+// create aabilityy to swap betweeen character select
+// create atk srpites for character roles
+//ishdfkjhawsfytiaweg
+if(global.mode == "philosopher") {
+
+if(isAttacking==true){
+	if(sprite_index != sodey_wattack){
+ sprite_index = sodey_wattack;
+ image_index=0 
+ image_speed=1
+	
+	}
+}else{
+	sprite_index = sody_shooter
+}
+}
+
+
+function setIsAttacking(isAttacking){ self.isAttacking = isAttacking;}
+//comcnvjhdfgvkjhdgsfhjfdfuycyutdugfcytgftfyty

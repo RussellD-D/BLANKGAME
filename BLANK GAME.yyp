@@ -1,0 +1,2261 @@
+{
+  resources: [
+    {
+      id: {
+        name: "Font1",
+        path: "fonts/Font1/Font1.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Note1",
+        path: "notes/Note1/Note1.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "album",
+        path: "objects/album/album.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "atkB",
+        path: "objects/atkB/atkB.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "box1",
+        path: "objects/box1/box1.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "box3",
+        path: "objects/box3/box3.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "BrunB",
+        path: "objects/BrunB/BrunB.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "button_combat",
+        path: "objects/button_combat/button_combat.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "capitalism",
+        path: "objects/capitalism/capitalism.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "defB",
+        path: "objects/defB/defB.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "Demdebs_Menu",
+        path: "objects/Demdebs_Menu/Demdebs_Menu.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "Dendys_menu_ITEM_1",
+        path: "objects/Dendys_menu_ITEM_1/Dendys_menu_ITEM_1.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "DFOR",
+        path: "objects/DFOR/DFOR.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "emeny1",
+        path: "objects/emeny1/emeny1.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "enemy_that_FREEGE_cares_about",
+        path: "objects/enemy_that_FREEGE_cares_about/enemy_that_FREEGE_cares_about.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "enemy_that_noone_cares_about",
+        path: "objects/enemy_that_noone_cares_about/enemy_that_noone_cares_about.yy",
+      },
+      order: 14,
+    },
+    {
+      id: {
+        name: "FREEGE",
+        path: "objects/FREEGE/FREEGE.yy",
+      },
+      order: 15,
+    },
+    {
+      id: {
+        name: "go",
+        path: "objects/go/go.yy",
+      },
+      order: 16,
+    },
+    {
+      id: {
+        name: "goply",
+        path: "objects/goply/goply.yy",
+      },
+      order: 17,
+    },
+    {
+      id: {
+        name: "go_around",
+        path: "objects/go_around/go_around.yy",
+      },
+      order: 18,
+    },
+    {
+      id: {
+        name: "go_living",
+        path: "objects/go_living/go_living.yy",
+      },
+      order: 19,
+    },
+    {
+      id: {
+        name: "go_to_kitchen",
+        path: "objects/go_to_kitchen/go_to_kitchen.yy",
+      },
+      order: 20,
+    },
+    {
+      id: {
+        name: "go_useless",
+        path: "objects/go_useless/go_useless.yy",
+      },
+      order: 21,
+    },
+    {
+      id: {
+        name: "gutton",
+        path: "objects/gutton/gutton.yy",
+      },
+      order: 22,
+    },
+    {
+      id: {
+        name: "hehehehehehehehehehehehehaha",
+        path: "objects/hehehehehehehehehehehehehaha/hehehehehehehehehehehehehaha.yy",
+      },
+      order: 23,
+    },
+    {
+      id: {
+        name: "INTERN",
+        path: "objects/INTERN/INTERN.yy",
+      },
+      order: 24,
+    },
+    {
+      id: {
+        name: "itemB",
+        path: "objects/itemB/itemB.yy",
+      },
+      order: 25,
+    },
+    {
+      id: {
+        name: "jaw_gym",
+        path: "objects/jaw_gym/jaw_gym.yy",
+      },
+      order: 26,
+    },
+    {
+      id: {
+        name: "Jeons_menu_botton",
+        path: "objects/Jeons_menu_botton/Jeons_menu_botton.yy",
+      },
+      order: 27,
+    },
+    {
+      id: {
+        name: "json8",
+        path: "objects/json8/json8.yy",
+      },
+      order: 28,
+    },
+    {
+      id: {
+        name: "lsd_f",
+        path: "objects/lsd_f/lsd_f.yy",
+      },
+      order: 29,
+    },
+    {
+      id: {
+        name: "mooover",
+        path: "objects/mooover/mooover.yy",
+      },
+      order: 30,
+    },
+    {
+      id: {
+        name: "NICE1",
+        path: "objects/NICE1/NICE1.yy",
+      },
+      order: 31,
+    },
+    {
+      id: {
+        name: "nimwiz",
+        path: "objects/nimwiz/nimwiz.yy",
+      },
+      order: 32,
+    },
+    {
+      id: {
+        name: "Object18",
+        path: "objects/Object18/Object18.yy",
+      },
+      order: 33,
+    },
+    {
+      id: {
+        name: "Object42",
+        path: "objects/Object42/Object42.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "sbsB",
+        path: "objects/sbsB/sbsB.yy",
+      },
+      order: 34,
+    },
+    {
+      id: {
+        name: "semyco",
+        path: "objects/semyco/semyco.yy",
+      },
+      order: 35,
+    },
+    {
+      id: {
+        name: "sodey_sodey_sodey_so",
+        path: "objects/sodey_sodey_sodey_so/sodey_sodey_sodey_so.yy",
+      },
+      order: 36,
+    },
+    {
+      id: {
+        name: "sodey_sodey_sodey_so_1",
+        path: "objects/sodey_sodey_sodey_so_1/sodey_sodey_sodey_so_1.yy",
+      },
+      order: 37,
+    },
+    {
+      id: {
+        name: "sprite235",
+        path: "objects/sprite235/sprite235.yy",
+      },
+      order: 38,
+    },
+    {
+      id: {
+        name: "texter",
+        path: "objects/texter/texter.yy",
+      },
+      order: 39,
+    },
+    {
+      id: {
+        name: "thebest",
+        path: "objects/thebest/thebest.yy",
+      },
+      order: 40,
+    },
+    {
+      id: {
+        name: "the_enemy_with_code_and_lore_thatsneverused",
+        path: "objects/the_enemy_with_code_and_lore_thatsneverused/the_enemy_with_code_and_lore_thatsneverused.yy",
+      },
+      order: 41,
+    },
+    {
+      id: {
+        name: "the_other_One",
+        path: "objects/the_other_One/the_other_One.yy",
+      },
+      order: 42,
+    },
+    {
+      id: {
+        name: "the_other_the_other_One_1",
+        path: "objects/the_other_the_other_One_1/the_other_the_other_One_1.yy",
+      },
+      order: 43,
+    },
+    {
+      id: {
+        name: "ass",
+        path: "rooms/ass/ass.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "DELTARooM",
+        path: "rooms/DELTARooM/DELTARooM.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "FooD",
+        path: "rooms/FooD/FooD.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "guiu_room_djhfgbdsjy",
+        path: "rooms/guiu_room_djhfgbdsjy/guiu_room_djhfgbdsjy.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "kitchen_of_themostdisgustingfilth",
+        path: "rooms/kitchen_of_themostdisgustingfilth/kitchen_of_themostdisgustingfilth.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "MENU",
+        path: "rooms/MENU/MENU.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "parthing",
+        path: "rooms/parthing/parthing.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "Room3",
+        path: "rooms/Room3/Room3.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "Room4",
+        path: "rooms/Room4/Room4.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "dialogue",
+        path: "scripts/dialogue/dialogue.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Script2",
+        path: "scripts/Script2/Script2.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "Sound1",
+        path: "sounds/Sound1/Sound1.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "Sound2",
+        path: "sounds/Sound2/Sound2.yy",
+      },
+      order: 44,
+    },
+    {
+      id: {
+        name: "ace",
+        path: "sprites/ace/ace.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "ace_1",
+        path: "sprites/ace_1/ace_1.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "ace_2",
+        path: "sprites/ace_2/ace_2.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "ASS",
+        path: "sprites/ASS/ASS.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "a_rare_sight",
+        path: "sprites/a_rare_sight/a_rare_sight.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "Batk",
+        path: "sprites/Batk/Batk.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "battle_sprite_kid",
+        path: "sprites/battle_sprite_kid/battle_sprite_kid.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Bdef",
+        path: "sprites/Bdef/Bdef.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "bert",
+        path: "sprites/bert/bert.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "bile",
+        path: "sprites/bile/bile.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "BI_FRY",
+        path: "sprites/BI_FRY/BI_FRY.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "blacknova",
+        path: "sprites/blacknova/blacknova.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "bob",
+        path: "sprites/bob/bob.yy",
+      },
+      order: 1,
+    },
+    {
+      id: {
+        name: "book",
+        path: "sprites/book/book.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "Brun",
+        path: "sprites/Brun/Brun.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "Bsbs",
+        path: "sprites/Bsbs/Bsbs.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "Button_Drugs",
+        path: "sprites/Button_Drugs/Button_Drugs.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "Button_Food",
+        path: "sprites/Button_Food/Button_Food.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "Button_Save",
+        path: "sprites/Button_Save/Button_Save.yy",
+      },
+      order: 14,
+    },
+    {
+      id: {
+        name: "cbird_dam",
+        path: "sprites/cbird_dam/cbird_dam.yy",
+      },
+      order: 15,
+    },
+    {
+      id: {
+        name: "chester",
+        path: "sprites/chester/chester.yy",
+      },
+      order: 16,
+    },
+    {
+      id: {
+        name: "circular_bird",
+        path: "sprites/circular_bird/circular_bird.yy",
+      },
+      order: 17,
+    },
+    {
+      id: {
+        name: "corigenshi_anti",
+        path: "sprites/corigenshi_anti/corigenshi_anti.yy",
+      },
+      order: 18,
+    },
+    {
+      id: {
+        name: "corigensi",
+        path: "sprites/corigensi/corigensi.yy",
+      },
+      order: 19,
+    },
+    {
+      id: {
+        name: "crandreen",
+        path: "sprites/crandreen/crandreen.yy",
+      },
+      order: 20,
+    },
+    {
+      id: {
+        name: "cyber_WORLD_norm_enemy",
+        path: "sprites/cyber_WORLD_norm_enemy/cyber_WORLD_norm_enemy.yy",
+      },
+      order: 21,
+    },
+    {
+      id: {
+        name: "dance_of_crazy",
+        path: "sprites/dance_of_crazy/dance_of_crazy.yy",
+      },
+      order: 22,
+    },
+    {
+      id: {
+        name: "deeeerply",
+        path: "sprites/deeeerply/deeeerply.yy",
+      },
+      order: 23,
+    },
+    {
+      id: {
+        name: "dendys_",
+        path: "sprites/dendys_/dendys_.yy",
+      },
+      order: 24,
+    },
+    {
+      id: {
+        name: "dendys_5",
+        path: "sprites/dendys_5/dendys_5.yy",
+      },
+      order: 25,
+    },
+    {
+      id: {
+        name: "depressed_child",
+        path: "sprites/depressed_child/depressed_child.yy",
+      },
+      order: 2,
+    },
+    {
+      id: {
+        name: "de_stink",
+        path: "sprites/de_stink/de_stink.yy",
+      },
+      order: 26,
+    },
+    {
+      id: {
+        name: "dolo",
+        path: "sprites/dolo/dolo.yy",
+      },
+      order: 3,
+    },
+    {
+      id: {
+        name: "dolos_apartment",
+        path: "sprites/dolos_apartment/dolos_apartment.yy",
+      },
+      order: 27,
+    },
+    {
+      id: {
+        name: "dolo_anti",
+        path: "sprites/dolo_anti/dolo_anti.yy",
+      },
+      order: 4,
+    },
+    {
+      id: {
+        name: "dolo_plush",
+        path: "sprites/dolo_plush/dolo_plush.yy",
+      },
+      order: 28,
+    },
+    {
+      id: {
+        name: "dour",
+        path: "sprites/dour/dour.yy",
+      },
+      order: 29,
+    },
+    {
+      id: {
+        name: "dr_nobody",
+        path: "sprites/dr_nobody/dr_nobody.yy",
+      },
+      order: 30,
+    },
+    {
+      id: {
+        name: "eeeeeeee",
+        path: "sprites/eeeeeeee/eeeeeeee.yy",
+      },
+      order: 31,
+    },
+    {
+      id: {
+        name: "eminy_selelelelecter",
+        path: "sprites/eminy_selelelelecter/eminy_selelelelecter.yy",
+      },
+      order: 5,
+    },
+    {
+      id: {
+        name: "eyerta",
+        path: "sprites/eyerta/eyerta.yy",
+      },
+      order: 32,
+    },
+    {
+      id: {
+        name: "eye_of_kronos",
+        path: "sprites/eye_of_kronos/eye_of_kronos.yy",
+      },
+      order: 33,
+    },
+    {
+      id: {
+        name: "f",
+        path: "sprites/f/f.yy",
+      },
+      order: 34,
+    },
+    {
+      id: {
+        name: "fg",
+        path: "sprites/fg/fg.yy",
+      },
+      order: 35,
+    },
+    {
+      id: {
+        name: "Final_BEAM_blue",
+        path: "sprites/Final_BEAM_blue/Final_BEAM_blue.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "Final_BEAM_blue_beam",
+        path: "sprites/Final_BEAM_blue_beam/Final_BEAM_blue_beam.yy",
+      },
+      order: 36,
+    },
+    {
+      id: {
+        name: "fiver",
+        path: "sprites/fiver/fiver.yy",
+      },
+      order: 7,
+    },
+    {
+      id: {
+        name: "FREEGEATTACK",
+        path: "sprites/FREEGEATTACK/FREEGEATTACK.yy",
+      },
+      order: 37,
+    },
+    {
+      id: {
+        name: "gen",
+        path: "sprites/gen/gen.yy",
+      },
+      order: 8,
+    },
+    {
+      id: {
+        name: "gipi",
+        path: "sprites/gipi/gipi.yy",
+      },
+      order: 9,
+    },
+    {
+      id: {
+        name: "guardian_of_the_fourth",
+        path: "sprites/guardian_of_the_fourth/guardian_of_the_fourth.yy",
+      },
+      order: 38,
+    },
+    {
+      id: {
+        name: "Gui",
+        path: "sprites/Gui/Gui.yy",
+      },
+      order: 39,
+    },
+    {
+      id: {
+        name: "gule",
+        path: "sprites/gule/gule.yy",
+      },
+      order: 40,
+    },
+    {
+      id: {
+        name: "hamburg_germany",
+        path: "sprites/hamburg_germany/hamburg_germany.yy",
+      },
+      order: 41,
+    },
+    {
+      id: {
+        name: "hyper_blacknova",
+        path: "sprites/hyper_blacknova/hyper_blacknova.yy",
+      },
+      order: 42,
+    },
+    {
+      id: {
+        name: "Jesster",
+        path: "sprites/Jesster/Jesster.yy",
+      },
+      order: 43,
+    },
+    {
+      id: {
+        name: "Jorts",
+        path: "sprites/Jorts/Jorts.yy",
+      },
+      order: 44,
+    },
+    {
+      id: {
+        name: "kid",
+        path: "sprites/kid/kid.yy",
+      },
+      order: 10,
+    },
+    {
+      id: {
+        name: "KID_ANTI",
+        path: "sprites/KID_ANTI/KID_ANTI.yy",
+      },
+      order: 11,
+    },
+    {
+      id: {
+        name: "kobeni",
+        path: "sprites/kobeni/kobeni.yy",
+      },
+      order: 45,
+    },
+    {
+      id: {
+        name: "kobeni_1",
+        path: "sprites/kobeni_1/kobeni_1.yy",
+      },
+      order: 46,
+    },
+    {
+      id: {
+        name: "kobeni_scared",
+        path: "sprites/kobeni_scared/kobeni_scared.yy",
+      },
+      order: 47,
+    },
+    {
+      id: {
+        name: "lifecap",
+        path: "sprites/lifecap/lifecap.yy",
+      },
+      order: 48,
+    },
+    {
+      id: {
+        name: "lightbulb",
+        path: "sprites/lightbulb/lightbulb.yy",
+      },
+      order: 49,
+    },
+    {
+      id: {
+        name: "logo_of_tendry",
+        path: "sprites/logo_of_tendry/logo_of_tendry.yy",
+      },
+      order: 50,
+    },
+    {
+      id: {
+        name: "magic_battle",
+        path: "sprites/magic_battle/magic_battle.yy",
+      },
+      order: 51,
+    },
+    {
+      id: {
+        name: "magic_guy",
+        path: "sprites/magic_guy/magic_guy.yy",
+      },
+      order: 52,
+    },
+    {
+      id: {
+        name: "MAN",
+        path: "sprites/MAN/MAN.yy",
+      },
+      order: 53,
+    },
+    {
+      id: {
+        name: "man_plant",
+        path: "sprites/man_plant/man_plant.yy",
+      },
+      order: 54,
+    },
+    {
+      id: {
+        name: "man_plant_1",
+        path: "sprites/man_plant_1/man_plant_1.yy",
+      },
+      order: 55,
+    },
+    {
+      id: {
+        name: "meaty_meaterson",
+        path: "sprites/meaty_meaterson/meaty_meaterson.yy",
+      },
+      order: 56,
+    },
+    {
+      id: {
+        name: "mr_bileten",
+        path: "sprites/mr_bileten/mr_bileten.yy",
+      },
+      order: 12,
+    },
+    {
+      id: {
+        name: "mr_face",
+        path: "sprites/mr_face/mr_face.yy",
+      },
+      order: 57,
+    },
+    {
+      id: {
+        name: "ms_jel",
+        path: "sprites/ms_jel/ms_jel.yy",
+      },
+      order: 58,
+    },
+    {
+      id: {
+        name: "NEWT",
+        path: "sprites/NEWT/NEWT.yy",
+      },
+      order: 59,
+    },
+    {
+      id: {
+        name: "noonecansaveyou",
+        path: "sprites/noonecansaveyou/noonecansaveyou.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "nova_timetaker",
+        path: "sprites/nova_timetaker/nova_timetaker.yy",
+      },
+      order: 60,
+    },
+    {
+      id: {
+        name: "nova_timetaker_neb_attack",
+        path: "sprites/nova_timetaker_neb_attack/nova_timetaker_neb_attack.yy",
+      },
+      order: 61,
+    },
+    {
+      id: {
+        name: "O",
+        path: "sprites/O/O.yy",
+      },
+      order: 62,
+    },
+    {
+      id: {
+        name: "oif",
+        path: "sprites/oif/oif.yy",
+      },
+      order: 63,
+    },
+    {
+      id: {
+        name: "overwirld_gui",
+        path: "sprites/overwirld_gui/overwirld_gui.yy",
+      },
+      order: 64,
+    },
+    {
+      id: {
+        name: "Parncee_1",
+        path: "sprites/Parncee_1/Parncee_1.yy",
+      },
+      order: 65,
+    },
+    {
+      id: {
+        name: "Parncee_2",
+        path: "sprites/Parncee_2/Parncee_2.yy",
+      },
+      order: 66,
+    },
+    {
+      id: {
+        name: "Parncee_3",
+        path: "sprites/Parncee_3/Parncee_3.yy",
+      },
+      order: 67,
+    },
+    {
+      id: {
+        name: "parncee_egg",
+        path: "sprites/parncee_egg/parncee_egg.yy",
+      },
+      order: 68,
+    },
+    {
+      id: {
+        name: "parqueen",
+        path: "sprites/parqueen/parqueen.yy",
+      },
+      order: 69,
+    },
+    {
+      id: {
+        name: "parqueen2v",
+        path: "sprites/parqueen2v/parqueen2v.yy",
+      },
+      order: 70,
+    },
+    {
+      id: {
+        name: "placeholderhhhh",
+        path: "sprites/placeholderhhhh/placeholderhhhh.yy",
+      },
+      order: 71,
+    },
+    {
+      id: {
+        name: "polok",
+        path: "sprites/polok/polok.yy",
+      },
+      order: 72,
+    },
+    {
+      id: {
+        name: "queen",
+        path: "sprites/queen/queen.yy",
+      },
+      order: 73,
+    },
+    {
+      id: {
+        name: "rachall",
+        path: "sprites/rachall/rachall.yy",
+      },
+      order: 74,
+    },
+    {
+      id: {
+        name: "rachall_1",
+        path: "sprites/rachall_1/rachall_1.yy",
+      },
+      order: 75,
+    },
+    {
+      id: {
+        name: "rachall_con_or_dis",
+        path: "sprites/rachall_con_or_dis/rachall_con_or_dis.yy",
+      },
+      order: 76,
+    },
+    {
+      id: {
+        name: "random_ass_blackhole",
+        path: "sprites/random_ass_blackhole/random_ass_blackhole.yy",
+      },
+      order: 77,
+    },
+    {
+      id: {
+        name: "rie301",
+        path: "sprites/rie301/rie301.yy",
+      },
+      order: 78,
+    },
+    {
+      id: {
+        name: "rie301_b",
+        path: "sprites/rie301_b/rie301_b.yy",
+      },
+      order: 79,
+    },
+    {
+      id: {
+        name: "rie301_sprite_i_made_for_fun",
+        path: "sprites/rie301_sprite_i_made_for_fun/rie301_sprite_i_made_for_fun.yy",
+      },
+      order: 80,
+    },
+    {
+      id: {
+        name: "Rollo",
+        path: "sprites/Rollo/Rollo.yy",
+      },
+      order: 81,
+    },
+    {
+      id: {
+        name: "secret",
+        path: "sprites/secret/secret.yy",
+      },
+      order: 82,
+    },
+    {
+      id: {
+        name: "secret2",
+        path: "sprites/secret2/secret2.yy",
+      },
+      order: 83,
+    },
+    {
+      id: {
+        name: "sekelect_ui",
+        path: "sprites/sekelect_ui/sekelect_ui.yy",
+      },
+      order: 84,
+    },
+    {
+      id: {
+        name: "shlicker",
+        path: "sprites/shlicker/shlicker.yy",
+      },
+      order: 85,
+    },
+    {
+      id: {
+        name: "Shlicker_Battle",
+        path: "sprites/Shlicker_Battle/Shlicker_Battle.yy",
+      },
+      order: 86,
+    },
+    {
+      id: {
+        name: "sodey",
+        path: "sprites/sodey/sodey.yy",
+      },
+      order: 87,
+    },
+    {
+      id: {
+        name: "sodey_wattack",
+        path: "sprites/sodey_wattack/sodey_wattack.yy",
+      },
+      order: 88,
+    },
+    {
+      id: {
+        name: "sody_shooter",
+        path: "sprites/sody_shooter/sody_shooter.yy",
+      },
+      order: 89,
+    },
+    {
+      id: {
+        name: "sopey_diologe",
+        path: "sprites/sopey_diologe/sopey_diologe.yy",
+      },
+      order: 90,
+    },
+    {
+      id: {
+        name: "Sprite10",
+        path: "sprites/Sprite10/Sprite10.yy",
+      },
+      order: 91,
+    },
+    {
+      id: {
+        name: "Sprite106",
+        path: "sprites/Sprite106/Sprite106.yy",
+      },
+      order: 92,
+    },
+    {
+      id: {
+        name: "Sprite11",
+        path: "sprites/Sprite11/Sprite11.yy",
+      },
+      order: 93,
+    },
+    {
+      id: {
+        name: "Sprite12",
+        path: "sprites/Sprite12/Sprite12.yy",
+      },
+      order: 94,
+    },
+    {
+      id: {
+        name: "Sprite121",
+        path: "sprites/Sprite121/Sprite121.yy",
+      },
+      order: 95,
+    },
+    {
+      id: {
+        name: "Sprite123",
+        path: "sprites/Sprite123/Sprite123.yy",
+      },
+      order: 96,
+    },
+    {
+      id: {
+        name: "Sprite129",
+        path: "sprites/Sprite129/Sprite129.yy",
+      },
+      order: 97,
+    },
+    {
+      id: {
+        name: "Sprite13",
+        path: "sprites/Sprite13/Sprite13.yy",
+      },
+      order: 98,
+    },
+    {
+      id: {
+        name: "Sprite131",
+        path: "sprites/Sprite131/Sprite131.yy",
+      },
+      order: 99,
+    },
+    {
+      id: {
+        name: "Sprite133",
+        path: "sprites/Sprite133/Sprite133.yy",
+      },
+      order: 100,
+    },
+    {
+      id: {
+        name: "Sprite134",
+        path: "sprites/Sprite134/Sprite134.yy",
+      },
+      order: 0,
+    },
+    {
+      id: {
+        name: "Sprite135",
+        path: "sprites/Sprite135/Sprite135.yy",
+      },
+      order: 101,
+    },
+    {
+      id: {
+        name: "Sprite137",
+        path: "sprites/Sprite137/Sprite137.yy",
+      },
+      order: 46,
+    },
+    {
+      id: {
+        name: "Sprite141",
+        path: "sprites/Sprite141/Sprite141.yy",
+      },
+      order: 102,
+    },
+    {
+      id: {
+        name: "Sprite143",
+        path: "sprites/Sprite143/Sprite143.yy",
+      },
+      order: 103,
+    },
+    {
+      id: {
+        name: "Sprite144",
+        path: "sprites/Sprite144/Sprite144.yy",
+      },
+      order: 104,
+    },
+    {
+      id: {
+        name: "Sprite15",
+        path: "sprites/Sprite15/Sprite15.yy",
+      },
+      order: 105,
+    },
+    {
+      id: {
+        name: "Sprite150",
+        path: "sprites/Sprite150/Sprite150.yy",
+      },
+      order: 106,
+    },
+    {
+      id: {
+        name: "Sprite152",
+        path: "sprites/Sprite152/Sprite152.yy",
+      },
+      order: 107,
+    },
+    {
+      id: {
+        name: "Sprite155",
+        path: "sprites/Sprite155/Sprite155.yy",
+      },
+      order: 108,
+    },
+    {
+      id: {
+        name: "Sprite16",
+        path: "sprites/Sprite16/Sprite16.yy",
+      },
+      order: 109,
+    },
+    {
+      id: {
+        name: "Sprite167",
+        path: "sprites/Sprite167/Sprite167.yy",
+      },
+      order: 110,
+    },
+    {
+      id: {
+        name: "Sprite171",
+        path: "sprites/Sprite171/Sprite171.yy",
+      },
+      order: 111,
+    },
+    {
+      id: {
+        name: "Sprite173",
+        path: "sprites/Sprite173/Sprite173.yy",
+      },
+      order: 112,
+    },
+    {
+      id: {
+        name: "Sprite181",
+        path: "sprites/Sprite181/Sprite181.yy",
+      },
+      order: 113,
+    },
+    {
+      id: {
+        name: "Sprite198",
+        path: "sprites/Sprite198/Sprite198.yy",
+      },
+      order: 114,
+    },
+    {
+      id: {
+        name: "Sprite199",
+        path: "sprites/Sprite199/Sprite199.yy",
+      },
+      order: 13,
+    },
+    {
+      id: {
+        name: "Sprite20",
+        path: "sprites/Sprite20/Sprite20.yy",
+      },
+      order: 115,
+    },
+    {
+      id: {
+        name: "Sprite202",
+        path: "sprites/Sprite202/Sprite202.yy",
+      },
+      order: 116,
+    },
+    {
+      id: {
+        name: "Sprite21",
+        path: "sprites/Sprite21/Sprite21.yy",
+      },
+      order: 117,
+    },
+    {
+      id: {
+        name: "Sprite22",
+        path: "sprites/Sprite22/Sprite22.yy",
+      },
+      order: 118,
+    },
+    {
+      id: {
+        name: "Sprite223",
+        path: "sprites/Sprite223/Sprite223.yy",
+      },
+      order: 119,
+    },
+    {
+      id: {
+        name: "Sprite227Sprite227",
+        path: "sprites/Sprite227Sprite227/Sprite227Sprite227.yy",
+      },
+      order: 120,
+    },
+    {
+      id: {
+        name: "Sprite228",
+        path: "sprites/Sprite228/Sprite228.yy",
+      },
+      order: 121,
+    },
+    {
+      id: {
+        name: "Sprite23",
+        path: "sprites/Sprite23/Sprite23.yy",
+      },
+      order: 122,
+    },
+    {
+      id: {
+        name: "Sprite234",
+        path: "sprites/Sprite234/Sprite234.yy",
+      },
+      order: 123,
+    },
+    {
+      id: {
+        name: "Sprite235",
+        path: "sprites/Sprite235/Sprite235.yy",
+      },
+      order: 124,
+    },
+    {
+      id: {
+        name: "Sprite236",
+        path: "sprites/Sprite236/Sprite236.yy",
+      },
+      order: 125,
+    },
+    {
+      id: {
+        name: "Sprite237",
+        path: "sprites/Sprite237/Sprite237.yy",
+      },
+      order: 126,
+    },
+    {
+      id: {
+        name: "Sprite239",
+        path: "sprites/Sprite239/Sprite239.yy",
+      },
+      order: 127,
+    },
+    {
+      id: {
+        name: "Sprite24",
+        path: "sprites/Sprite24/Sprite24.yy",
+      },
+      order: 128,
+    },
+    {
+      id: {
+        name: "Sprite240",
+        path: "sprites/Sprite240/Sprite240.yy",
+      },
+      order: 47,
+    },
+    {
+      id: {
+        name: "Sprite25",
+        path: "sprites/Sprite25/Sprite25.yy",
+      },
+      order: 129,
+    },
+    {
+      id: {
+        name: "Sprite26",
+        path: "sprites/Sprite26/Sprite26.yy",
+      },
+      order: 130,
+    },
+    {
+      id: {
+        name: "Sprite27",
+        path: "sprites/Sprite27/Sprite27.yy",
+      },
+      order: 131,
+    },
+    {
+      id: {
+        name: "Sprite28",
+        path: "sprites/Sprite28/Sprite28.yy",
+      },
+      order: 132,
+    },
+    {
+      id: {
+        name: "Sprite29",
+        path: "sprites/Sprite29/Sprite29.yy",
+      },
+      order: 133,
+    },
+    {
+      id: {
+        name: "Sprite30",
+        path: "sprites/Sprite30/Sprite30.yy",
+      },
+      order: 134,
+    },
+    {
+      id: {
+        name: "Sprite31",
+        path: "sprites/Sprite31/Sprite31.yy",
+      },
+      order: 135,
+    },
+    {
+      id: {
+        name: "Sprite33",
+        path: "sprites/Sprite33/Sprite33.yy",
+      },
+      order: 136,
+    },
+    {
+      id: {
+        name: "Sprite34",
+        path: "sprites/Sprite34/Sprite34.yy",
+      },
+      order: 137,
+    },
+    {
+      id: {
+        name: "Sprite35",
+        path: "sprites/Sprite35/Sprite35.yy",
+      },
+      order: 138,
+    },
+    {
+      id: {
+        name: "Sprite36",
+        path: "sprites/Sprite36/Sprite36.yy",
+      },
+      order: 139,
+    },
+    {
+      id: {
+        name: "Sprite37",
+        path: "sprites/Sprite37/Sprite37.yy",
+      },
+      order: 140,
+    },
+    {
+      id: {
+        name: "Sprite38",
+        path: "sprites/Sprite38/Sprite38.yy",
+      },
+      order: 141,
+    },
+    {
+      id: {
+        name: "Sprite39",
+        path: "sprites/Sprite39/Sprite39.yy",
+      },
+      order: 142,
+    },
+    {
+      id: {
+        name: "Sprite40",
+        path: "sprites/Sprite40/Sprite40.yy",
+      },
+      order: 143,
+    },
+    {
+      id: {
+        name: "Sprite41",
+        path: "sprites/Sprite41/Sprite41.yy",
+      },
+      order: 144,
+    },
+    {
+      id: {
+        name: "Sprite42",
+        path: "sprites/Sprite42/Sprite42.yy",
+      },
+      order: 145,
+    },
+    {
+      id: {
+        name: "Sprite43",
+        path: "sprites/Sprite43/Sprite43.yy",
+      },
+      order: 146,
+    },
+    {
+      id: {
+        name: "Sprite44",
+        path: "sprites/Sprite44/Sprite44.yy",
+      },
+      order: 147,
+    },
+    {
+      id: {
+        name: "Sprite47",
+        path: "sprites/Sprite47/Sprite47.yy",
+      },
+      order: 148,
+    },
+    {
+      id: {
+        name: "Sprite48",
+        path: "sprites/Sprite48/Sprite48.yy",
+      },
+      order: 149,
+    },
+    {
+      id: {
+        name: "Sprite49",
+        path: "sprites/Sprite49/Sprite49.yy",
+      },
+      order: 150,
+    },
+    {
+      id: {
+        name: "Sprite50",
+        path: "sprites/Sprite50/Sprite50.yy",
+      },
+      order: 151,
+    },
+    {
+      id: {
+        name: "Sprite51",
+        path: "sprites/Sprite51/Sprite51.yy",
+      },
+      order: 152,
+    },
+    {
+      id: {
+        name: "Sprite52",
+        path: "sprites/Sprite52/Sprite52.yy",
+      },
+      order: 153,
+    },
+    {
+      id: {
+        name: "Sprite53",
+        path: "sprites/Sprite53/Sprite53.yy",
+      },
+      order: 154,
+    },
+    {
+      id: {
+        name: "Sprite54",
+        path: "sprites/Sprite54/Sprite54.yy",
+      },
+      order: 155,
+    },
+    {
+      id: {
+        name: "Sprite56",
+        path: "sprites/Sprite56/Sprite56.yy",
+      },
+      order: 156,
+    },
+    {
+      id: {
+        name: "Sprite57",
+        path: "sprites/Sprite57/Sprite57.yy",
+      },
+      order: 157,
+    },
+    {
+      id: {
+        name: "Sprite6",
+        path: "sprites/Sprite6/Sprite6.yy",
+      },
+      order: 158,
+    },
+    {
+      id: {
+        name: "Sprite60",
+        path: "sprites/Sprite60/Sprite60.yy",
+      },
+      order: 159,
+    },
+    {
+      id: {
+        name: "Sprite62",
+        path: "sprites/Sprite62/Sprite62.yy",
+      },
+      order: 160,
+    },
+    {
+      id: {
+        name: "Sprite65",
+        path: "sprites/Sprite65/Sprite65.yy",
+      },
+      order: 161,
+    },
+    {
+      id: {
+        name: "Sprite66",
+        path: "sprites/Sprite66/Sprite66.yy",
+      },
+      order: 162,
+    },
+    {
+      id: {
+        name: "Sprite67",
+        path: "sprites/Sprite67/Sprite67.yy",
+      },
+      order: 163,
+    },
+    {
+      id: {
+        name: "Sprite68",
+        path: "sprites/Sprite68/Sprite68.yy",
+      },
+      order: 164,
+    },
+    {
+      id: {
+        name: "Sprite69",
+        path: "sprites/Sprite69/Sprite69.yy",
+      },
+      order: 48,
+    },
+    {
+      id: {
+        name: "Sprite7",
+        path: "sprites/Sprite7/Sprite7.yy",
+      },
+      order: 165,
+    },
+    {
+      id: {
+        name: "Sprite70",
+        path: "sprites/Sprite70/Sprite70.yy",
+      },
+      order: 166,
+    },
+    {
+      id: {
+        name: "Sprite74",
+        path: "sprites/Sprite74/Sprite74.yy",
+      },
+      order: 167,
+    },
+    {
+      id: {
+        name: "Sprite77",
+        path: "sprites/Sprite77/Sprite77.yy",
+      },
+      order: 168,
+    },
+    {
+      id: {
+        name: "Sprite79",
+        path: "sprites/Sprite79/Sprite79.yy",
+      },
+      order: 169,
+    },
+    {
+      id: {
+        name: "Sprite8",
+        path: "sprites/Sprite8/Sprite8.yy",
+      },
+      order: 170,
+    },
+    {
+      id: {
+        name: "Sprite87",
+        path: "sprites/Sprite87/Sprite87.yy",
+      },
+      order: 171,
+    },
+    {
+      id: {
+        name: "Sprite88",
+        path: "sprites/Sprite88/Sprite88.yy",
+      },
+      order: 172,
+    },
+    {
+      id: {
+        name: "Sprite89",
+        path: "sprites/Sprite89/Sprite89.yy",
+      },
+      order: 173,
+    },
+    {
+      id: {
+        name: "Sprite91",
+        path: "sprites/Sprite91/Sprite91.yy",
+      },
+      order: 174,
+    },
+    {
+      id: {
+        name: "Sprite96",
+        path: "sprites/Sprite96/Sprite96.yy",
+      },
+      order: 175,
+    },
+    {
+      id: {
+        name: "Sprite97",
+        path: "sprites/Sprite97/Sprite97.yy",
+      },
+      order: 176,
+    },
+    {
+      id: {
+        name: "Sprite98",
+        path: "sprites/Sprite98/Sprite98.yy",
+      },
+      order: 177,
+    },
+    {
+      id: {
+        name: "Sprite99",
+        path: "sprites/Sprite99/Sprite99.yy",
+      },
+      order: 178,
+    },
+    {
+      id: {
+        name: "Sub_Button_Burger",
+        path: "sprites/Sub_Button_Burger/Sub_Button_Burger.yy",
+      },
+      order: 179,
+    },
+    {
+      id: {
+        name: "Sub_Button_Fry",
+        path: "sprites/Sub_Button_Fry/Sub_Button_Fry.yy",
+      },
+      order: 180,
+    },
+    {
+      id: {
+        name: "Sub_Button_Jeons",
+        path: "sprites/Sub_Button_Jeons/Sub_Button_Jeons.yy",
+      },
+      order: 181,
+    },
+    {
+      id: {
+        name: "Sub_Button_Meat",
+        path: "sprites/Sub_Button_Meat/Sub_Button_Meat.yy",
+      },
+      order: 182,
+    },
+    {
+      id: {
+        name: "Sub_Button_Teeth",
+        path: "sprites/Sub_Button_Teeth/Sub_Button_Teeth.yy",
+      },
+      order: 183,
+    },
+    {
+      id: {
+        name: "Sweatsweat",
+        path: "sprites/Sweatsweat/Sweatsweat.yy",
+      },
+      order: 184,
+    },
+    {
+      id: {
+        name: "TEETH",
+        path: "sprites/TEETH/TEETH.yy",
+      },
+      order: 185,
+    },
+    {
+      id: {
+        name: "tendry",
+        path: "sprites/tendry/tendry.yy",
+      },
+      order: 186,
+    },
+    {
+      id: {
+        name: "TENNA",
+        path: "sprites/TENNA/TENNA.yy",
+      },
+      order: 6,
+    },
+    {
+      id: {
+        name: "text00",
+        path: "sprites/text00/text00.yy",
+      },
+      order: 187,
+    },
+    {
+      id: {
+        name: "textbox_crime",
+        path: "sprites/textbox_crime/textbox_crime.yy",
+      },
+      order: 188,
+    },
+    {
+      id: {
+        name: "TEXTER",
+        path: "sprites/TEXTER/TEXTER.yy",
+      },
+      order: 189,
+    },
+    {
+      id: {
+        name: "texter_jr",
+        path: "sprites/texter_jr/texter_jr.yy",
+      },
+      order: 190,
+    },
+    {
+      id: {
+        name: "the_blue",
+        path: "sprites/the_blue/the_blue.yy",
+      },
+      order: 191,
+    },
+    {
+      id: {
+        name: "the_blue_battle",
+        path: "sprites/the_blue_battle/the_blue_battle.yy",
+      },
+      order: 192,
+    },
+    {
+      id: {
+        name: "usless",
+        path: "sprites/usless/usless.yy",
+      },
+      order: 193,
+    },
+    {
+      id: {
+        name: "vandle",
+        path: "sprites/vandle/vandle.yy",
+      },
+      order: 194,
+    },
+    {
+      id: {
+        name: "vandlet_",
+        path: "sprites/vandlet_/vandlet_.yy",
+      },
+      order: 195,
+    },
+    {
+      id: {
+        name: "vandle_anti",
+        path: "sprites/vandle_anti/vandle_anti.yy",
+      },
+      order: 196,
+    },
+    {
+      id: {
+        name: "vandle_with_lifecap",
+        path: "sprites/vandle_with_lifecap/vandle_with_lifecap.yy",
+      },
+      order: 197,
+    },
+    {
+      id: {
+        name: "WATTACK",
+        path: "sprites/WATTACK/WATTACK.yy",
+      },
+      order: 198,
+    },
+    {
+      id: {
+        name: "WATTCK",
+        path: "sprites/WATTCK/WATTCK.yy",
+      },
+      order: 199,
+    },
+    {
+      id: {
+        name: "Wbox",
+        path: "sprites/Wbox/Wbox.yy",
+      },
+      order: 200,
+    },
+    {
+      id: {
+        name: "Wdox",
+        path: "sprites/Wdox/Wdox.yy",
+      },
+      order: 201,
+    },
+    {
+      id: {
+        name: "weirdnova",
+        path: "sprites/weirdnova/weirdnova.yy",
+      },
+      order: 202,
+    },
+    {
+      id: {
+        name: "weird_mouse",
+        path: "sprites/weird_mouse/weird_mouse.yy",
+      },
+      order: 203,
+    },
+    {
+      id: {
+        name: "who",
+        path: "sprites/who/who.yy",
+      },
+      order: 204,
+    },
+    {
+      id: {
+        name: "Wilson_anti_spit_attack",
+        path: "sprites/Wilson_anti_spit_attack/Wilson_anti_spit_attack.yy",
+      },
+      order: 205,
+    },
+    {
+      id: {
+        name: "wilson_b",
+        path: "sprites/wilson_b/wilson_b.yy",
+      },
+      order: 206,
+    },
+    {
+      id: {
+        name: "wilson_mouthfull_mode",
+        path: "sprites/wilson_mouthfull_mode/wilson_mouthfull_mode.yy",
+      },
+      order: 207,
+    },
+    {
+      id: {
+        name: "Wiox",
+        path: "sprites/Wiox/Wiox.yy",
+      },
+      order: 208,
+    },
+    {
+      id: {
+        name: "WMox",
+        path: "sprites/WMox/WMox.yy",
+      },
+      order: 209,
+    },
+    {
+      id: {
+        name: "WOOD_SHELL",
+        path: "sprites/WOOD_SHELL/WOOD_SHELL.yy",
+      },
+      order: 210,
+    },
+    {
+      id: {
+        name: "world_rachall",
+        path: "sprites/world_rachall/world_rachall.yy",
+      },
+      order: 211,
+    },
+    {
+      id: {
+        name: "ww",
+        path: "sprites/ww/ww.yy",
+      },
+      order: 212,
+    },
+    {
+      id: {
+        name: "wws",
+        path: "sprites/wws/wws.yy",
+      },
+      order: 213,
+    },
+    {
+      id: {
+        name: "yseuyfgskdyuifavdsjhgf",
+        path: "sprites/yseuyfgskdyuifavdsjhgf/yseuyfgskdyuifavdsjhgf.yy",
+      },
+      order: 214,
+    },
+    {
+      id: {
+        name: "_63_rem",
+        path: "sprites/_63_rem/_63_rem.yy",
+      },
+      order: 215,
+    },
+  ],
+  Options: [
+    {
+      name: "Main",
+      path: "options/main/options_main.yy",
+    },
+    {
+      name: "Opera GX",
+      path: "options/operagx/options_operagx.yy",
+    },
+    {
+      name: "Windows",
+      path: "options/windows/options_windows.yy",
+    },
+  ],
+  isDnDProject: false,
+  isEcma: false,
+  tutorialPath: "",
+  configs: {
+    name: "Default",
+    children: [],
+  },
+  RoomOrderNodes: [
+    {
+      roomId: {
+        name: "ass",
+        path: "rooms/ass/ass.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "DELTARooM",
+        path: "rooms/DELTARooM/DELTARooM.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "FooD",
+        path: "rooms/FooD/FooD.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "guiu_room_djhfgbdsjy",
+        path: "rooms/guiu_room_djhfgbdsjy/guiu_room_djhfgbdsjy.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "kitchen_of_themostdisgustingfilth",
+        path: "rooms/kitchen_of_themostdisgustingfilth/kitchen_of_themostdisgustingfilth.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "MENU",
+        path: "rooms/MENU/MENU.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "parthing",
+        path: "rooms/parthing/parthing.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "Room3",
+        path: "rooms/Room3/Room3.yy",
+      },
+    },
+    {
+      roomId: {
+        name: "Room4",
+        path: "rooms/Room4/Room4.yy",
+      },
+    },
+  ],
+  Folders: [
+    {
+      folderPath: "folders/Objects.yy",
+      order: 0,
+      resourceVersion: "",
+      name: "Objects",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Rooms.yy",
+      order: 1,
+      resourceVersion: "",
+      name: "Rooms",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Scripts.yy",
+      order: 3,
+      resourceVersion: "",
+      name: "Scripts",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sprites.yy",
+      order: 4,
+      resourceVersion: "",
+      name: "Sprites",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Sprites/scap.yy",
+      order: 5,
+      resourceVersion: "",
+      name: "scap",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+    {
+      folderPath: "folders/Objects/Particle Systems.yy",
+      order: 45,
+      resourceVersion: "",
+      name: "Particle Systems",
+      tags: [],
+      resourceType: "GMFolder",
+    },
+  ],
+  AudioGroups: [
+    {
+      targets: -1,
+      resourceVersion: "",
+      name: "audiogroup_default",
+      resourceType: "GMAudioGroup",
+    },
+  ],
+  TextureGroups: [
+    {
+      isScaled: true,
+      autocrop: true,
+      border: 2,
+      mipsToGenerate: 0,
+      groupParent: null,
+      targets: -1,
+      resourceVersion: "",
+      name: "Default",
+      resourceType: "GMTextureGroup",
+    },
+    {
+      isScaled: true,
+      autocrop: true,
+      border: 2,
+      mipsToGenerate: 0,
+      groupParent: null,
+      targets: -1,
+      resourceVersion: "",
+      name: "texgroup1",
+      resourceType: "GMTextureGroup",
+    },
+    {
+      isScaled: true,
+      autocrop: true,
+      border: 2,
+      mipsToGenerate: 0,
+      groupParent: null,
+      targets: -1,
+      resourceVersion: "",
+      name: "texgroup2",
+      resourceType: "GMTextureGroup",
+    },
+  ],
+  IncludedFiles: [],
+  MetaData: {
+    IDEVersion: "",
+  },
+  resourceVersion: "",
+  name: "BLANK GAME",
+  tags: [],
+  resourceType: "GMProject",
+}
